@@ -1,4 +1,4 @@
-module github.com/olezhek28/microservices_course_boilerplate
+module github.com/fdrt29/microservices_course_boilerplate
 
 go 1.23
 
